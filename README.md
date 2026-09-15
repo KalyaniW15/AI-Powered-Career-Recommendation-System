@@ -2,8 +2,11 @@
 
 A privacy-aware hybrid ML system for personalized career recommendations.
 
-## Project Highlights
+## Live Demo
+Try the deployed application:
+[Open AI Career Recommendation App](https://ai-powered-career-recommendation-system-cuucgbbtgscg3e77c9w4kv.streamlit.app/)
 
+## Project Highlights
 - 43,371 valid student profiles analyzed
 - 159,196 quiz activity records analyzed
 - 24,259 Student-Career marks records
