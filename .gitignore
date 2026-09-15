@@ -1,0 +1,7 @@
+*.pkl
+*.joblib
+*private*
+raw_data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
