@@ -1,0 +1,10 @@
+{
+    "baseline_rmse": 0.2298,
+    "matrix_factorization_rmse": 0.1933,
+    "matrix_factorization_mae": 0.1397,
+    "rmse_improvement_percentage": 15.88,
+    "hit_rate_at_5": 0.0765,
+    "ndcg_at_5": 0.0375,
+    "hit_rate_at_10": 0.1122,
+    "mrr_at_10": 0.0298
+}
