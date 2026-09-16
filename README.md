@@ -93,6 +93,3 @@ These are recommender-system metrics, not classification accuracy.
 - Use temporal validation
 - Add a FastAPI backend for production integration
 
-## Author
-
-Kalyani Waghaye
