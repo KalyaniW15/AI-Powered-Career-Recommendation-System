@@ -91,7 +91,7 @@ These are recommender-system metrics, not classification accuracy.
 - Collect explicit student feedback
 - Add recommendation diversity and fairness evaluation
 - Use temporal validation
-- Deploy using Streamlit or FastAPI
+- Add a FastAPI backend for production integration
 
 ## Author
 
