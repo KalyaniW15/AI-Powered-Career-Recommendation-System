@@ -74,6 +74,8 @@ These are recommender-system metrics, not classification accuracy.
 - Matplotlib and Seaborn
 - ipywidgets
 - Google Colab
+- Streamlit
+- Streamlit Community Cloud
 
 ## Privacy and Responsible AI
 
